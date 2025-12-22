@@ -10,7 +10,7 @@
 | ------------------------ | --------------------------------- |
 |[About me](https://github.com/NicknameRoot/NicknameRoot)| Work completed until new edits ✅|
 |[Simple Web Site](https://github.com/NicknameRoot/Test_Web_Site)| Created for fun 😋| 
-|[Project Closed ❌] <br> [My some customed css for Vencord Discord Themes](https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root)|[The project was closed because the discord became optimal in design with the latest update] <br> ~~Edits appear in css as the discord client itself updates~~ ❌|
+|[Project Closed ❌] <br> [My some customed css for Vencord Discord Themes](#)|[The project was closed because the discord became optimal in design with the latest update] <br> ~~Edits appear in css as the discord client itself updates~~ ❌|
 |[My python script subsystem project](https://github.com/NicknameRoot/Simple_Bootloader_on_Python)|Will be further developed and improved ✅|
 
 ## About 🗂️
