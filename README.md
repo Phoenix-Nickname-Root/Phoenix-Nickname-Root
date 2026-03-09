@@ -30,6 +30,17 @@ Phoenix_Nickname_Root = {
 ![Nickname_Root](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-nickname-root\&layout=donut&theme=merko)
 
 
+### Operating systems currently in use
+
+<a href="https://en.wikipedia.org/wiki/Arch_Linux"><img title="Arch Linux" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/ArchLinux.png"></a>
+
+<a href="https://en.wikipedia.org/wiki/Windows_11"><img title="Linux Mint (for my home server)" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg"></a>
+
+<a href="https://en.wikipedia.org/wiki/Windows_11"><img title="Windows 11" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"></a>
+
+<br />
+<br />
+
 ### Programming Languages
 
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img title="Python" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a>
