@@ -62,3 +62,5 @@ Phoenix_Nickname_Root = {
 ### Tools
 
 <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio_Code"><img title="Visual Studio Code" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png"></a>
+
+<a href="https://en.wikipedia.org/wiki/GNU_nano"><img title="GNU-Nano" align="left" height="100" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Gnu-nano.svg"></a>
