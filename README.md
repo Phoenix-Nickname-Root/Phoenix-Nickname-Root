@@ -25,7 +25,7 @@ Phoenix_Nickname_Root = {
 ```
 
 
-### Some general statistics
+### Some general statistics (Temporarily unavailable, not my fault)
 ![Nickname_Root](https://github-readme-stats.vercel.app/api?username=phoenix-nickname-root\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage=true&rank_icon=github&theme=merko)
 ![Nickname_Root](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-nickname-root\&layout=donut&theme=merko)
 
