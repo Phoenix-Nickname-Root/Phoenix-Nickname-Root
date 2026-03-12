@@ -9,7 +9,7 @@
 | **Vorking on projects**|**Work status**|
 | ------------------------ | --------------------------------- |
 |[About me](https://github.com/NicknameRoot/NicknameRoot)| Work completed until new edits ✅|
-|[Python Email Notification System 📧](https://github.com/Phoenix-Nickname-Root/Pyhton-Email-Notifer)|A new project that was written for my own needs and is now open to the public. Feel free to use it :)|
+|[It will take some time to finalize the project ⌛] <br> [Python Email Notification System 📧](https://github.com/Phoenix-Nickname-Root/Pyhton-Email-Notifer)|A new project that was written for my own needs and is now open to the public. Feel free to use it :)|
 |[Simple Web Site](https://github.com/NicknameRoot/Test_Web_Site)| Created for fun 😋| 
 |[Project Closed ❌] <br> [My some customed css for Vencord Discord Themes](#)|[The project was closed because the discord became optimal in design with the latest update] <br> ~~Edits appear in css as the discord client itself updates~~ ❌|
 |[My python script subsystem project](https://github.com/NicknameRoot/Simple_Bootloader_on_Python)|Will be further developed and improved ✅|
